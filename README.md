@@ -1,19 +1,5 @@
-# Discord-Bot-For-Starters
-This is the tutorial bot :)
+#Math game for fun
+made by EREN
+Join in Discord [CLICK HERE](https://discord.gg/5qzsfbK3HG)
 
-## HANDLER SYLE
-
-```js
-
-module.exports = {
-name: "ping",
-usage: "Nothing rlly",
-ownerOnly: false, 
-cooldown: 5000,
-botPermission: [],
-authorPermission: [],
-aliases: [],
-description: "Nothing",
-}
-
-```
+Source code by: ᴇʀᴇɴ#0226
